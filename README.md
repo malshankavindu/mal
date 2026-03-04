@@ -1,4 +1,5 @@
 # mal
 
-hi
-yjgj
+This is landing page for FOT ICT website.
+
+Hello I'm dummy test!
